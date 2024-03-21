@@ -44,11 +44,6 @@ Test the C Program for the desired output.
 
 ![Screenshot from 2024-03-21 09-23-57](https://github.com/mithra916/Linux-Process-API-fork-wait-exec/assets/149986612/9a41e63d-2bd2-4a46-af6c-8f4f20ceb1cb)
 
-
-
-
-
-
 ## C Program to create new process using Linux API system calls fork() and exit()
 
 
@@ -65,11 +60,7 @@ Test the C Program for the desired output.
 
 ##OUTPUT
 
-
-
-
-
-
+![Screenshot from 2024-03-21 17-37-02](https://github.com/mithra916/Linux-Process-API-fork-wait-exec/assets/149986612/67014b14-fa65-445c-9cbc-5bc43b3f87b0)
 
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
